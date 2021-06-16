@@ -26,13 +26,13 @@ const Hero = () => (
                     <div className="col-md-9">
                         <div className="main-menu">
                             <ul id="navigation">
-                                <li><a data-scroll href="index.html#about-us">ABOUT</a></li>
-                                <li><a data-scroll href="index.html#our-products">PRODUCTS</a></li>
-                                <li><a data-scroll href="index.html#pic-gallery">GALLERY</a></li>
-                                <li><a data-scroll href="index.html#our-team">TEAM</a></li>
-                                <li><a data-scroll href="index.html#customer-feedback">TESTIMONIALS</a></li>
-                                <li><a data-scroll href="index.html#our-blog">BLOG</a></li>
-                                <li><a data-scroll href="index.html#purchase-now">PURCHASE</a></li>
+                                <li><a data-scroll href="#about-us">ABOUT</a></li>
+                                <li><a data-scroll href="#our-products">PRODUCTS</a></li>
+                                <li><a data-scroll href="#pic-gallery">GALLERY</a></li>
+                                <li><a data-scroll href="#our-team">TEAM</a></li>
+                                <li><a data-scroll href="#customer-feedback">TESTIMONIALS</a></li>
+                                <li><a data-scroll href="#our-blog">BLOG</a></li>
+                                <li><a data-scroll href="#purchase-now">PURCHASE</a></li>
                             </ul>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ const Hero = () => (
         <div className="container">
             <div className="row">
                 <div className="top-area text-center">
-                    <h1>Chipsofic: Leader of Potato Chips</h1>
+                    <h1>berani coba berani ketagihan</h1>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
                     <a data-scroll href="index.html#about-us" className="btn">Learn More</a>
                 </div>
