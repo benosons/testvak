@@ -1,6 +1,6 @@
 import React from 'react';
 
-import className from 'classnames';
+// import className from 'classnames';
 
 const Teaser = () => {
   const handleClick = (e:any, path:string) => {

@@ -1,16 +1,16 @@
 import React from 'react';
 
-import className from 'classnames';
+// import className from 'classnames';
 
-type IVerticalFeatureRowProps = {
-  title: string;
-  description: string;
-  image: string;
-  imageAlt: string;
-  reverse?: boolean;
-};
+// type IVerticalFeatureRowProps = {
+//   title: string;
+//   description: string;
+//   image: string;
+//   imageAlt: string;
+//   reverse?: boolean;
+// };
 
-const OurProduct = (props: IVerticalFeatureRowProps) => {
+const OurProduct = () => {
  
 
   return (
