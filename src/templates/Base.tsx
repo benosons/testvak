@@ -2,19 +2,25 @@ import React from 'react';
 
 import { Meta } from '../layout/Meta';
 import { Config } from '../utils/Config';
-import { Banner } from './Banner';
 import { Footer } from './Footer';
 import { Hero } from './Hero';
-import { VerticalFeatures } from './VerticalFeatures';
+import { About } from './About';
+import { Product } from './Product';
+import { Video } from './Video';
+import { Gallery } from './Gallery';
 
-const Base = () => (
-  <div className="antialiased text-gray-600">
-    <Meta title={Config.title} description={Config.description} />
-    <Hero />
-    <VerticalFeatures />
-    <Banner />
-    <Footer />
-  </div>
-);
+function Base() {
+  return (
+    <div>
+      <Meta title={Config.title} description={Config.description} />
+      <Hero />
+      <About />
+      <Product />
+      <Video />
+      <Gallery />
+      <Footer />
+    </div>
+  );
+}
 
 export { Base };

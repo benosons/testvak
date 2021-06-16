@@ -1,0 +1,234 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+.chipsofic-purchase-btn {
+    width: 60%;
+}
+.circle-testimonial-item img {
+    border-radius: 50%;
+    height: auto;
+    max-height: 150px;
+}
+.header-area, .testimonial-bg-1, .process-block, .purchase-block {
+    background-size: auto;
+}
+.logo img {
+    padding-top: 7px;
+}
+.header-area .cbp-af-header.cbp-af-header-shrink .logo img {
+    max-height: 55px;
+    padding-top: 0px;
+}
+.main-menu li a {
+    font-size: 13px;
+}
+.section-title h2 {
+    font-size: 30px;
+}
+.top-area h1 {
+    font-size: 45px;
+    line-height: 1.2;
+}
+.top-area p {
+    font-size: 17px;
+}
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.about-us-section h1, .about-us-section h2 {
+    text-align: center;
+}
+.chipsofic-purchase-btn {
+    width: 80%;
+}
+.circle-testimonial-item img {
+    border-radius: 50%;
+    max-height: 150px;
+    height: auto;
+    padding:2px;
+}
+.header-area .cbp-af-header {
+    height: auto;
+    padding-bottom: 20px;
+}
+.logo img {
+    width: 300px;
+}
+.logo h1 {
+    display: block;
+}
+.header-area .cbp-af-header.cbp-af-header-shrink {
+    padding-bottom: 7px;
+}
+.header-area .cbp-af-header.cbp-af-header-shrink .logo img {
+    display:none;
+}
+.main-menu li a {
+    padding: 5px 15px;
+}
+.newsletter-block .section-title {
+    text-align: center;
+}
+.newsletter input[type="text"] {
+    margin-bottom: 10px;
+}
+.newsletter-block {
+    background-position: center bottom;
+}
+.top-area {
+    padding: 28% 0 14.5%;
+}
+.top-area h1 {
+    font-size: 45px;
+    line-height: 1.2;
+}
+.top-area p {
+    font-size: 17px;
+}
+.top-area .btn {
+    font-size: 17px;
+    padding: 12px 30px;
+}
+.single-chips-item {
+    margin-bottom: 35px;
+}
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+.about-us-section h1, .about-us-section h2 {
+    text-align: center;
+}
+.about-us-section img {
+    max-height: 330px;
+}
+.blog-single-modal {
+    padding: 1px 15px;
+}
+.blog-single-modal img {
+    float: none;
+    padding: 0px 0 10px;
+    width: 100%;
+}
+
+.btn-left, .btn-right {
+    float: none;
+}
+.chipsofic-counter-area {
+    margin-top: 25px;
+}
+.chipsofic-purchase-btn {
+    border-radius: 35px;
+    margin: 10px auto;
+    width:100%;
+}
+.chipsofic-subtitle {
+    line-height: 1.2;
+    margin-top: 10px;
+}
+.circle-testimonial-item img {
+    border-radius: 50%;
+    height: auto;
+    max-height: 150px;
+    width: 150px !important;
+}
+.header-area .cbp-af-header {
+    height: auto;
+    position: relative;
+}
+.logo img {
+    width: 170px;
+}
+.main-menu {
+    display: none;
+}
+.modal-body {
+    padding: 5px;
+}
+.modal-dialog {
+    margin: 30px auto 0;
+    width: 85%;
+}
+.newsletter-block {
+    background-position: center bottom;
+}
+.newsletter-block .section-title {
+    text-align: center;
+}
+.newsletter input[type="text"] {
+    margin-bottom: 10px;
+}
+.purchase.now {
+    margin-top: 25px;
+}
+.responsive-menu-wrap {
+    display: block;
+    position: fixed;
+    right: 15px;
+    top: 1.5%;
+    z-index: 99;
+}
+.responsive-menu-wrap .slicknav_menu {
+    background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+    margin: 0;
+    padding: 0;
+}
+.responsive-menu-wrap .slicknav_menu:hover {
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+}
+.review-stars.text-right, .circle-testimonial-item p, .testimonial-slider-wrapper h4 {
+    text-align: center;
+}
+.section-title h1 {
+    font-size: 40px;
+}
+.single-chips-item {
+    margin-bottom: 25px;
+}
+.slicknav_nav a {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    padding: 8px 25px;
+}
+.slicknav_nav a:hover {
+    background: #FFC527;
+    border-radius:0px;
+}
+.slicknav_nav {
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+}
+.slicknav_btn {
+    background-color: transparent;
+}
+.top-area h1 {
+    font-size: 30px;
+    line-height:1.2;
+}
+.top-area {
+    padding: 8% 0 14.5%;
+}
+.top-area p {
+    font-size: 17px;
+}
+.top-area .btn {
+    font-size: 17px;
+    padding: 12px 30px;
+}
+}
+    
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+.chipsofic-purchase-btn {
+    width:60%;
+}
+.responsive-menu-wrap {
+    top: 5%;
+}
+.logo img {
+    width: 300px;
+}
+.top-area h1 {
+    font-size: 45px;
+}
+}

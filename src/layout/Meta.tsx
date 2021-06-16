@@ -35,7 +35,51 @@ const Meta = (props: IMetaProps) => (
         href={`${process.env.baseUrl}/favicon-16x16.png`}
         key="icon16"
       />
-      <link rel="icon" href={`${process.env.baseUrl}/favicon.ico`} key="favicon" />
+      <link rel="icon" href={`${process.env.baseUrl}/assets/img/favicon.png`} key="favicon" />
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/bootstrap.min.css`}/>
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/font-awesome.min.css`}/>
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/animate.min.css`}/>
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/owl.carousel.css`}/>
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/magnific-popup.css`}/>
+      
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/slicknav.min.css`}/>
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/animated-header.css`}/>
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/style.css`}/>
+
+      <link rel="stylesheet" href={`${process.env.baseUrl}/assets/css/responsive.css`}/>
+
+      <script src={`${process.env.baseUrl}/assets/js/jquery-2.2.4.min.js`}/>
+
+      <script src={`${process.env.baseUrl}/assets/js/jquery.magnific-popup.min.js`}/>
+    
+      <script src={`${process.env.baseUrl}/assets/js/owl.carousel.min.js`}/>
+      
+      <script src={`${process.env.baseUrl}/assets/js/jquery.slicknav.min.js`}/>
+      
+      <script src={`${process.env.baseUrl}/assets/js/smooth-scroll.min.js`}/>
+      
+      <script src={`${process.env.baseUrl}/assets/js/wow-1.3.0.min.js`}/>
+      
+      <script src={`${process.env.baseUrl}/assets/js/modal.js`}/>
+      
+      <script src={`${process.env.baseUrl}/assets/js/waypoints.min.js`}/>
+      
+      <script src={`${process.env.baseUrl}/assets/js/jquery.counterup.min.js`}/>
+      
+      <script defer src={`${process.env.baseUrl}/assets/js/classie.js`}/>
+      
+      <script defer src={`${process.env.baseUrl}/assets/js/cbpAnimatedHeader.min.js`}/>
+      
+      <script src={`${process.env.baseUrl}/assets/js/active.js`}/>
+
+
     </Head>
     <NextSeo
       title={props.title}
