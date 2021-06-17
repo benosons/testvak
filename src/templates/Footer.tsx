@@ -37,10 +37,10 @@ const Footer = () => (
             <div className="container">
                 <div className="row">
                     <div className="col-md-12 text-center">
-                        &copy; Copyright 2018 Chipsofic | All Rights Reserved
+                        &copy; Copyright 2021 Keripik iLiL | All Rights Reserved
                     </div>
                 </div>
-                <a data-scroll href="index.html#top" className="go-top">Top <i className="fa fa-long-arrow-up"></i></a>
+                <a data-scroll href="#top" className="go-top">Top <i className="fa fa-long-arrow-up"></i></a>
             </div>
         </div>
         

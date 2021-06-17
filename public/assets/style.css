@@ -219,7 +219,7 @@ img {
   border-bottom: 1px solid rgba(255,255,255,.2);
 }
 .header-area .cbp-af-header.cbp-af-header-shrink {
-    background: rgba(0,0,0,.8);
+    background: #3c763de8;
     border-bottom: 1px solid #FFC527;
 }
 .header-area .cbp-af-header h1 {
@@ -621,7 +621,7 @@ img {
     padding: 0;
 }
 .testimonial-bg-1 {
-    background: url('assets/img/testimonial-bg.jpg') no-repeat fixed center;
+    background: url('/assets/img/testimonial-bg.jpg') no-repeat fixed center;
     background-size: cover; 
 }
 
@@ -902,7 +902,7 @@ img {
     margin-right: 0px;
 }
 .footer-top-area {
-    background: #000;
+    background: #3c763d;
     border-top: 5px solid #FFC527;
 }
 .footer-top-area,
@@ -929,7 +929,7 @@ img {
 /* 17.2 Copyright */
 
 .footer-copyright-area {
-    background-color: #000;
+    background-color: #3c763d;
     color: #ffffff;
     padding: 5px 0 15px;
 }

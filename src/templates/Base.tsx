@@ -8,16 +8,20 @@ import { About } from './About';
 import { Product } from './Product';
 import { Video } from './Video';
 import { Gallery } from './Gallery';
+import { Testimoni } from './Testimoni';
+import { Loading } from './Loading';
 
 function Base() {
   return (
     <div>
       <Meta title={Config.title} description={Config.description} />
+      <Loading />
       <Hero />
       <About />
       <Product />
       <Video />
       <Gallery />
+      <Testimoni />
       <Footer />
     </div>
   );

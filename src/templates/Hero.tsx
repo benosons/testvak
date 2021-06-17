@@ -16,7 +16,7 @@ const Hero = () => (
                 <div className="row">
                     <div className="col-md-3">
                         <div className="logo">
-                            <a href="index.html#top">
+                            <a href="#top">
                                 <h1>
                                   <img src={`${process.env.baseUrl}/assets/img/logo.png`} alt="chipsofic" />
                                 </h1>
@@ -31,7 +31,6 @@ const Hero = () => (
                                 <li><a data-scroll href="#pic-gallery">GALLERY</a></li>
                                 <li><a data-scroll href="#our-team">TEAM</a></li>
                                 <li><a data-scroll href="#customer-feedback">TESTIMONIALS</a></li>
-                                <li><a data-scroll href="#our-blog">BLOG</a></li>
                                 <li><a data-scroll href="#purchase-now">PURCHASE</a></li>
                             </ul>
                         </div>
