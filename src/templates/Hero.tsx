@@ -10,7 +10,7 @@ import React from 'react';
 // import { Logo } from './Logo';
 
 const Hero = () => (
-  <div className="header-area">
+  <div className="header-area" style={{paddingBottom: '8%'}} >
        <div className="cbp-af-header">
             <div className="container">
                 <div className="row">
