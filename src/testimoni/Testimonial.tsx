@@ -6,8 +6,8 @@ const Testimonial = () => {
            <div className="row">
              <div className="col-md-12">
                    <div className="section-title text-center">
-                        <h1>Our Happy Customers</h1>
-                        <div className="chipsofic-subtitle">Discover what our Customers have to say</div>
+                        <h1>APA KATA MEREKA?</h1>
+                        <div className="chipsofic-subtitle">Testimoni dari sahabat iLiL</div>
                    </div>
                </div>
             </div>

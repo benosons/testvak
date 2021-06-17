@@ -19,8 +19,8 @@ const OurGallery = () => {
     <div className="row">
       <div className="col-md-12">
           <div className="section-title text-center">
-            <h1>Picture Gallery</h1>
-            <div className="chipsofic-subtitle">Check our aweomse product images</div>
+            <h1>Galeri Kami</h1>
+            <div className="chipsofic-subtitle">Silahkan melihat foto kami</div>
           </div>
       </div>
     </div>

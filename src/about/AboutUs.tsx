@@ -10,8 +10,8 @@ const AboutUs = () => {
             <div className="row">
                <div className="about-us-section">
                     <div className="col-md-6">
-                        <h1><span>Welcome</span> Sahabat ilil</h1>
-                        <h2>Your Friendly Neighbourhood Chips</h2>
+                        <h1><span>Tentang</span> KERIPIK ilil</h1>
+                        <h2>Berani Coba, Berani Ketagihan</h2>
                         <p>Diam nonummy nibh, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio.</p>
                         <div className="row">
                             <div className="col-sm-6">

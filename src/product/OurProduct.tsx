@@ -18,8 +18,8 @@ const OurProduct = () => {
     <div className="row">
        <div className="col-md-12">
              <div className="section-title text-center">
-                  <h1>Choose Your Flavor</h1>
-                  <div className="chipsofic-subtitle">Choose any of our chips which better suits your needs</div>
+                  <h1>varian rasa</h1>
+                  <div className="chipsofic-subtitle">Pilih sesuai dengan keinginan</div>
              </div>
          </div>
       </div>
