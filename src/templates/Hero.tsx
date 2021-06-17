@@ -26,12 +26,12 @@ const Hero = () => (
                     <div className="col-md-9">
                         <div className="main-menu">
                             <ul id="navigation">
-                                <li><a data-scroll href="#about-us">ABOUT</a></li>
-                                <li><a data-scroll href="#our-products">PRODUCTS</a></li>
-                                <li><a data-scroll href="#pic-gallery">GALLERY</a></li>
-                                <li><a data-scroll href="#our-team">TEAM</a></li>
-                                <li><a data-scroll href="#customer-feedback">TESTIMONIALS</a></li>
-                                <li><a data-scroll href="#purchase-now">PURCHASE</a></li>
+                                <li><a data-scroll href="#about-us">TENTANG</a></li>
+                                <li><a data-scroll href="#our-products">PRODUK</a></li>
+                                <li><a data-scroll href="#pic-gallery">GALERI</a></li>
+                                {/* <li><a data-scroll href="#our-team">TEAM</a></li> */}
+                                <li><a data-scroll href="#customer-feedback">TESTIMONIAL</a></li>
+                                <li><a data-scroll href="#purchase-now">PESAN</a></li>
                             </ul>
                         </div>
                     </div>
@@ -44,9 +44,9 @@ const Hero = () => (
         <div className="container">
             <div className="row">
                 <div className="top-area text-center">
-                    <h1>berani coba berani ketagihan</h1>
+                    <h1><img src={`${process.env.baseUrl}/assets/img/berani_coba.png`} alt="chipsofic" style={{width: '80%'}} /></h1>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                    <a data-scroll href="index.html#about-us" className="btn">Learn More</a>
+                    <a data-scroll href="#about-us" className="btn">Tentang Kami</a>
                 </div>
             </div>
         </div>

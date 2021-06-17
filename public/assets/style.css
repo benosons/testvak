@@ -158,7 +158,7 @@ img {
 }
 
 .chipsofic-purchase-btn:hover {
-  background: #333;
+  background: #3c763d;
 }
 
 /*-----------------------------
@@ -856,7 +856,7 @@ img {
 -------------------------------*/
 
 .purchase-block {
-    background: url('assets/img/purchase-bg.jpg') no-repeat fixed center;
+    background: url('/assets/img/purchase-bg.jpg') no-repeat fixed center;
     background-size: cover; 
 }
 

@@ -10,6 +10,7 @@ import { Video } from './Video';
 import { Gallery } from './Gallery';
 import { Testimoni } from './Testimoni';
 import { Loading } from './Loading';
+import { Checkout  } from './Checkout';
 
 function Base() {
   return (
@@ -22,6 +23,7 @@ function Base() {
       <Video />
       <Gallery />
       <Testimoni />
+      <Checkout />
       <Footer />
     </div>
   );
