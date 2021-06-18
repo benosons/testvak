@@ -37,21 +37,21 @@ const OurProduct = () => {
               {/* <img src={`${process.env.baseUrl}/assets/img/chips-02.png`} alt=""/> */}
                  <h3>Keju</h3>
                  <div className="pricing"><span>Harga:</span> Rp. 13.500</div>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                  <p>Rasa khasnya keju original sangat terasa dengan dominan rasa manis.</p>
                   <a className="btn chipsofic-small-btn" data-scroll href="index.html#purchase-now">Pesan</a>
               </div>
               <div className="col-sm-6 col-md-2 single-chips-item">
               {/* <img src={`${process.env.baseUrl}/assets/img/chips-03.png`} alt=""/> */}
                  <h3>Balado</h3>
                  <div className="pricing"><span>Harga:</span> Rp. 13.500</div>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                  <p>Campuran rasa pedas, manis serta gurihnya cukup kuat dan pas dilidah.</p>
                   <a className="btn chipsofic-small-btn" data-scroll href="index.html#purchase-now">Pesan</a>
               </div>
               <div className="col-sm-6 col-md-2 single-chips-item">
               {/* <img src={`${process.env.baseUrl}/assets/img/chips-04.png`} alt=""/> */}
                  <h3>Coklat</h3>
                  <div className="pricing"><span>Harga:</span> Rp. 14.500</div>
-                  <p>Rasa dari bumbu kualitas terbaik manis nya pas dan rasa coklat yg tebal.</p>
+                  <p>Rasa dari bumbu kualitas terbaik, manisnya pas dan rasa coklat yg tebal.</p>
                   <a className="btn chipsofic-small-btn" target="_blank" data-scroll href="https://api.whatsapp.com/send?phone=6285220968816&text=Halo%20Keripik%20iLiL%20Order%20dong%20yang%20Coklat">Pesan</a>
               </div>
               <div className="col-sm-6 col-md-2 single-chips-item">
