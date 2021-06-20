@@ -11,6 +11,7 @@ import { Gallery } from './Gallery';
 import { Testimoni } from './Testimoni';
 import { Loading } from './Loading';
 import { Checkout  } from './Checkout';
+import { Team } from './Team';
 
 function Base() {
   return (
@@ -22,6 +23,7 @@ function Base() {
       <Product />
       <Video />
       <Gallery />
+      <Team />
       <Testimoni />
       <Checkout />
       <Footer />

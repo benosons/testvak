@@ -19,8 +19,8 @@ const OurGallery = () => {
     <div className="row">
       <div className="col-md-12">
           <div className="section-title text-center">
-            <h1>Galeri Kami</h1>
-            <div className="chipsofic-subtitle">Silahkan melihat foto kami</div>
+            <h1>Galeri</h1>
+            <div className="chipsofic-subtitle">Koleksi Foto Keripik iLiL</div>
           </div>
       </div>
     </div>

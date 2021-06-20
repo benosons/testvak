@@ -46,7 +46,7 @@ const Hero = () => (
                 <div className="top-area text-center">
                     <h1><img src={`${process.env.baseUrl}/assets/img/berani_coba.png`} alt="chipsofic" style={{width: '80%'}} /></h1>
                     <p>Produksi <b>Bandung</b>, Pelopor Keripik Pisang Tipis, Tanpa MSG aman bagi semua kalangan, dan dibuat dari bahan berkualitas terbaik. Sangat cocok menjadi camilan saat bersantai, atau pun teman ngobrol bersama keluarga. Menjadi Buah tangan atau hadiah pun tidak kalah cocok.</p>
-                    <a data-scroll href="#about-us" className="btn">Tentang Kami</a>
+                    <a data-scroll href="#our-products" className="btn">Pilih Rasa</a>
                 </div>
             </div>
         </div>
