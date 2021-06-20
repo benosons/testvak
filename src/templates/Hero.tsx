@@ -29,7 +29,7 @@ const Hero = () => (
                                 <li><a data-scroll href="#about-us">TENTANG</a></li>
                                 <li><a data-scroll href="#our-products">PRODUK</a></li>
                                 <li><a data-scroll href="#pic-gallery">GALERI</a></li>
-                                {/* <li><a data-scroll href="#our-team">TEAM</a></li> */}
+                                <li><a data-scroll href="#our-team">TIM</a></li>
                                 <li><a data-scroll href="#customer-feedback">TESTIMONIAL</a></li>
                                 <li><a data-scroll href="#purchase-now">PESAN</a></li>
                             </ul>
@@ -45,7 +45,7 @@ const Hero = () => (
             <div className="row">
                 <div className="top-area text-center">
                     <h1><img src={`${process.env.baseUrl}/assets/img/berani_coba.png`} alt="chipsofic" style={{width: '80%'}} /></h1>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+                    <p>Produksi <b>Bandung</b>, Pelopor Keripik Pisang Tipis, Tanpa MSG aman bagi semua kalangan, dan dibuat dari bahan berkualitas terbaik. Sangat cocok menjadi camilan saat bersantai, atau pun teman ngobrol bersama keluarga. Menjadi Buah tangan atau hadiah pun tidak kalah cocok.</p>
                     <a data-scroll href="#about-us" className="btn">Tentang Kami</a>
                 </div>
             </div>
