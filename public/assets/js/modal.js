@@ -2,6 +2,11 @@ jQuery(document).ready(function($){
   $("#myModal").on("hidden.bs.modal",function(){
     $("#iframeYoutube").attr("src","#");
   })
+
+  $("#myModal").on("show.bs.modal",function(){
+    $("#iframeYoutube").attr("src","https://www.youtube.com/embed/c2XBu2vJDZM");
+  })
+  
 })
 
 function changeVideo(vId){

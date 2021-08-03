@@ -7,9 +7,8 @@ const Teaser = () => {
     e.preventDefault();
 
     // const iframe = document.getElementById('iframeYoutube');
-    // if (iframe != null) {
-    //   iframe.src = `https://www.youtube.com/embed/${path}`;
-    // }
+    // iframe.src = `https://www.youtube.com/embed/${path}`;
+
     $('#myModal').modal('show');
   };
 
