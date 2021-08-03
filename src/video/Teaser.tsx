@@ -18,8 +18,8 @@ const Teaser = () => {
         <div className="col-md-12">
           <div className="section-title text-center">
             <a onClick={(e) => handleClick(e)}><i className="fa fa-play-circle" /></a>
-            <h1>Check our Process</h1>
-            <div className="chipsofic-subtitle">Lorem ipsum dolor sit amet, consectetuer adipiscing elit sed diam nonummy nibh euismod tincidunt</div>
+            <h1>Check our Video</h1>
+            <div className="chipsofic-subtitle">Berani Coba Berani Ketagihan</div>
           </div>
         </div>
       </div>
