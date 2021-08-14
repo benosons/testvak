@@ -11,7 +11,7 @@ import { Loading } from './Loading';
 import { Modal } from './Modal';
 import { Product } from './Product';
 import { Team } from './Team';
-import { Testimoni } from './Testimoni';
+// import { Testimoni } from './Testimoni';
 import { Video } from './Video';
 
 function Base() {
@@ -26,7 +26,7 @@ function Base() {
       <Modal />
       <Gallery />
       <Team />
-      <Testimoni />
+      {/* <Testimoni /> */}
       <Checkout />
       <Footer />
     </div>
