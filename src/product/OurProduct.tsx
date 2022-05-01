@@ -29,7 +29,7 @@ const OurProduct = () => (
           <div className="pricing">
             <span>Harga:</span>
             {' '}
-            Rp. 13.500
+            Rp. 15.000
           </div>
           <p>Rasa natural dan gurih dengan aroma bawang yang menambah cita rasa.</p>
           <a className="btn chipsofic-small-btn" target="_blank" data-scroll href="https://api.whatsapp.com/send?phone=6282218401847&text=Halo%20Keripik%20iLiL%20Order%20dong%20yang%20Original" rel="noreferrer">Pesan</a>
@@ -40,7 +40,7 @@ const OurProduct = () => (
           <div className="pricing">
             <span>Harga:</span>
             {' '}
-            Rp. 13.500
+            Rp. 15.000
           </div>
           <p>Rasa khasnya keju original sangat terasa dengan dominan rasa manis.</p>
           <a className="btn chipsofic-small-btn" target="_blank" data-scroll href="https://api.whatsapp.com/send?phone=6282218401847&text=Halo%20Keripik%20iLiL%20Order%20dong%20yang%20Keju" rel="noreferrer">Pesan</a>
@@ -51,7 +51,7 @@ const OurProduct = () => (
           <div className="pricing">
             <span>Harga:</span>
             {' '}
-            Rp. 13.500
+            Rp. 15.000
           </div>
           <p>Campuran rasa pedas, manis serta gurihnya cukup kuat dan pas dilidah.</p>
           <a className="btn chipsofic-small-btn" target="_blank" data-scroll href="https://api.whatsapp.com/send?phone=6282218401847&text=Halo%20Keripik%20iLiL%20Order%20dong%20yang%20Balado" rel="noreferrer">Pesan</a>
@@ -62,7 +62,7 @@ const OurProduct = () => (
           <div className="pricing">
             <span>Harga:</span>
             {' '}
-            Rp. 14.500
+            Rp. 17.000
           </div>
           <p>Rasa dari Coklat kualitas terbaik, manisnya pas dan rasa coklat yg tebal.</p>
           <a className="btn chipsofic-small-btn" target="_blank" data-scroll href="https://api.whatsapp.com/send?phone=6282218401847&text=Halo%20Keripik%20iLiL%20Order%20dong%20yang%20Coklat" rel="noreferrer">Pesan</a>
@@ -73,7 +73,7 @@ const OurProduct = () => (
           <div className="pricing">
             <span>Harga:</span>
             {' '}
-            Rp. 13.500
+            Rp. 15.000
           </div>
           <p>Rasa pedas yang memanjakan lidah, sampai membuat ketagihan.</p>
           <a className="btn chipsofic-small-btn" target="_blank" data-scroll href="https://api.whatsapp.com/send?phone=6282218401847&text=Halo%20Keripik%20iLiL%20Order%20dong%20yang%20Level-1" rel="noreferrer">Pesan</a>
@@ -84,7 +84,7 @@ const OurProduct = () => (
           <div className="pricing">
             <span>Harga:</span>
             {' '}
-            Rp. 13.500
+            Rp. 15.000
           </div>
           <p>Bagi kalian pecinta pedas wajib mencoba dan rasakan sensasinya.</p>
           <a className="btn chipsofic-small-btn" target="_blank" data-scroll href="https://api.whatsapp.com/send?phone=6282218401847&text=Halo%20Keripik%20iLiL%20Order%20dong%20yang%20Level-2" rel="noreferrer">Pesan</a>
