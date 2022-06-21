@@ -5,7 +5,7 @@ import { Teaser } from '../video/Teaser';
 
 const Video = () => (
   <div scroll-spy="true" className="chipsofic-content-block process-block">
-    <Teaser/>
+    <Teaser />
   </div>
 );
 

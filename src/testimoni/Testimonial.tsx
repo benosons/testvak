@@ -20,18 +20,31 @@ const Testimonial = () => (
                   <img src={`${process.env.baseUrl}/assets/img/testimonial-inner-01.png`} alt="" />
                 </div>
                 <div className="col-sm-8">
-                  <p>This is a dummy description. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p>
+                    This is a dummy description. Far far away, behind the word mountains, far from
+                    the countries Vokalia and Consonantia, there live the blind texts.
+                  </p>
                   <ul className="review-stars text-right">
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                    </ul>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                  </ul>
                   <h4>
-                      Maria Doe
-<span>New York</span>
-                    </h4>
+                    Maria Doe
+                    <span>New York</span>
+                  </h4>
                 </div>
                 <div className="clear" />
               </div>
@@ -42,18 +55,31 @@ const Testimonial = () => (
                   <img src={`${process.env.baseUrl}/assets/img/testimonial-inner-02.png`} alt="" />
                 </div>
                 <div className="col-sm-8">
-                  <p>This is a dummy description. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p>
+                    This is a dummy description. Far far away, behind the word mountains, far from
+                    the countries Vokalia and Consonantia, there live the blind texts.
+                  </p>
                   <ul className="review-stars text-right">
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star-half-o" /></li>
-                    </ul>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star-half-o" />
+                    </li>
+                  </ul>
                   <h4>
-                      Joseph Ja
-<span>California</span>
-                    </h4>
+                    Joseph Ja
+                    <span>California</span>
+                  </h4>
                 </div>
                 <div className="clear" />
               </div>
@@ -71,18 +97,31 @@ const Testimonial = () => (
                   <img src={`${process.env.baseUrl}/assets/img/testimonial-inner-03.png`} alt="" />
                 </div>
                 <div className="col-sm-8">
-                  <p>This is a dummy description. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p>
+                    This is a dummy description. Far far away, behind the word mountains, far from
+                    the countries Vokalia and Consonantia, there live the blind texts.
+                  </p>
                   <ul className="review-stars text-right">
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                    </ul>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                  </ul>
                   <h4>
-                      Ura Dhura
-                            <span>London</span>
-                    </h4>
+                    Ura Dhura
+                    <span>London</span>
+                  </h4>
                 </div>
                 <div className="clear" />
               </div>
@@ -93,18 +132,31 @@ const Testimonial = () => (
                   <img src={`${process.env.baseUrl}/assets/img/testimonial-inner-04.png`} alt="" />
                 </div>
                 <div className="col-sm-8">
-                  <p>This is a dummy description. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p>
+                    This is a dummy description. Far far away, behind the word mountains, far from
+                    the countries Vokalia and Consonantia, there live the blind texts.
+                  </p>
                   <ul className="review-stars text-right">
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star-half-o" /></li>
-                    </ul>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star-half-o" />
+                    </li>
+                  </ul>
                   <h4>
-                      Cholen Jai
-                            <span>Beijing</span>
-                    </h4>
+                    Cholen Jai
+                    <span>Beijing</span>
+                  </h4>
                 </div>
                 <div className="clear" />
               </div>
@@ -122,18 +174,31 @@ const Testimonial = () => (
                   <img src={`${process.env.baseUrl}/assets/img/testimonial-inner-05.png`} alt="" />
                 </div>
                 <div className="col-sm-8">
-                  <p>This is a dummy description. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p>
+                    This is a dummy description. Far far away, behind the word mountains, far from
+                    the countries Vokalia and Consonantia, there live the blind texts.
+                  </p>
                   <ul className="review-stars text-right">
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                    </ul>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                  </ul>
                   <h4>
-                      Mia Valo
-<span>Barcelona</span>
-                    </h4>
+                    Mia Valo
+                    <span>Barcelona</span>
+                  </h4>
                 </div>
                 <div className="clear" />
               </div>
@@ -144,18 +209,31 @@ const Testimonial = () => (
                   <img src={`${process.env.baseUrl}/assets/img/testimonial-inner-06.png`} alt="" />
                 </div>
                 <div className="col-sm-8">
-                  <p>This is a dummy description. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p>
+                    This is a dummy description. Far far away, behind the word mountains, far from
+                    the countries Vokalia and Consonantia, there live the blind texts.
+                  </p>
                   <ul className="review-stars text-right">
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star" /></li>
-                      <li><i className="fa fa-star-half-o" /></li>
-                    </ul>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star" />
+                    </li>
+                    <li>
+                      <i className="fa fa-star-half-o" />
+                    </li>
+                  </ul>
                   <h4>
-                      Hasan Mia
-<span>Dhaka</span>
-                    </h4>
+                    Hasan Mia
+                    <span>Dhaka</span>
+                  </h4>
                 </div>
                 <div className="clear" />
               </div>

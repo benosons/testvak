@@ -1,6 +1,6 @@
 export const Config = {
-  site_name: 'iLiL',
-  title: 'Keripik iLiL',
-  description: 'Berani  Coba Berani Ketagihan',
+  site_name: 'testVAK',
+  title: 'VAK Test',
+  description: '',
   locale: 'en',
 };

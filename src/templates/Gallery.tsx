@@ -4,8 +4,7 @@ import { OurGallery } from '../gallery/OurGallery';
 
 const Gallery = () => (
   <div scroll-spy="true" id="pic-gallery" className="chipsofic-content-block gallery-block">
-    <OurGallery 
-    />
+    <OurGallery />
   </div>
 );
 

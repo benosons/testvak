@@ -1,6 +1,6 @@
 /**
  * Owl Carousel v2.2.1
- * Copyright 2013-2017 David Deutsch
+ * Copyright 2013-2018 David Deutsch
  * Licensed under  ()
  */
 /*
@@ -141,7 +141,7 @@
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url("https://live.themefic.com/html-templates/chipsofic/Yellow/Version-01/assets/css/owl.video.play.png") no-repeat;
+  background: url("https://uigaint.com/demo/html/GamFi/assets/css/owl.video.play.png") no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
